@@ -18,7 +18,7 @@ Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in t
 #### In Progress
 
 <img src="https://progress-bar.dev/89" alt="89%" width="53"> Race-related Research in Economics (Part 1 and Part 2), with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
-<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; margin-bottom: 15px; border-radius: 5px;">
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 5px; margin-bottom: 15px; border-radius: 5px;">
     🔍 <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Try out our algorithm for detecting race-related research on Huggingface</a>
 </div>
 
