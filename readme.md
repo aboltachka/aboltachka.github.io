@@ -22,7 +22,7 @@ Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in t
     🔍 <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Try out our algorithm for detecting race-related research on Huggingface</a>
 </div>
 
-<img src="https://progress-bar.dev/18" alt="18%" width="53"> Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy?
+<img src="https://progress-bar.dev/17" alt="18%" width="53"> Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy?
 
 
 ---
