@@ -22,4 +22,4 @@ Welcome to my personal page! I'm Anton Boltachka, a Scientific Assistant in the 
 
 ---
 
-This page is a reflection of my academic journey and will be updated regularly with new research, publications, and insights. Thank you for visiting!
+This page will be updated regularly with new research, publications, and insights. Thank you for visiting!
