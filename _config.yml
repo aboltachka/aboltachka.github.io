@@ -2,15 +2,7 @@ theme: jekyll-remote-theme
 title: Anton BOLTACHKA
 description: Bookmark this to keep an eye on my project updates!
 color-scheme: dark
-favicon: true
+#favicon: true
 logo: /assets/img/logo.png
-sidebar:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/aboltachka
-
-  - name: X/Twitter
-    icon: <i class="fa-brands fa-twitter"></i>
-    link: https://twitter.com/aboltachka?s=21&t=xhJET1hGiEgJVJm4tfB66g
 
     
