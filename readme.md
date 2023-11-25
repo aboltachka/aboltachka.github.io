@@ -10,18 +10,14 @@ Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in t
 
 #### Working Papers
 
-- [Media Bias and Climate Change Skepticism]([link-to-publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632854)), with Elliott Ash, Sergio Galletta, and Matteo Pinna - . 
+- [Media Bias and Climate Change Skepticism]([link-to-publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632854)), with Elliott Ash, Sergio Galletta, and Matteo Pinna 
   <details><summary>View abstract</summary>
-  ![Publication Image](link-to-publication-image.png)
+  This study examines the impact on climate change attitudes of exposure to Fox News Channel (FNC), the top-rated U.S. cable television channel known for its conservative bias. Our findings indicate a statistically significant shift towards climate change skepticism and a decline in support for climate change mitigation policies. The findings remain robust across multiple empirical methodologies, including addressing the endogeneity of viewership through an instrumental variable (IV) approach, and are consistent across a variety of survey datasets. Our research adds significant value to the existing literature on media's influence on beliefs, highlighting the role media plays in guiding societal discourse and comprehension.
   </details>
-  <details><summary>Generate pcicture</summary>
-  ![Publication Image](link-to-publication-image.png)
-  </details>
-
-- **[Project Title 1]**: Brief description of your project. [Link to more details if available]
-- **[Project Title 2]**: Brief description of another project.
 
 #### Work in Progress
+
+
 
 
 
