@@ -1,6 +1,6 @@
 ### About Me
 
-Welcome to my personal page! I'm Anton Boltachka, a Scientific Assistant in the team of [Elliott Ash](https://elliottash.com) at ETH Zurich. On this webpage, I share insights into my research, academic journey, and more about who I am.
+Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in the team of [Elliott Ash](https://elliottash.com) at ETH Zurich. On this webpage, I share insights into my research, academic journey, and more about who I am.
 
 ### Curriculum Vitae
 
