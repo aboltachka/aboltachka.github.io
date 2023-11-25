@@ -4,3 +4,12 @@ description: Bookmark this to keep an eye on my project updates!
 color-scheme: dark
 favicon: true
 
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/BDHU
+  - name: X/Twitter
+    icon: 
+    link:
+
+    
