@@ -8,8 +8,9 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/BDHU
+
   - name: X/Twitter
-    icon: 
-    link:
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://twitter.com/[YourTwitterUsername]
 
     
