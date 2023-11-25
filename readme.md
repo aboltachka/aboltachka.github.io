@@ -1,10 +1,10 @@
 ## About Me
 
-Welcome to my personal page! I'm Anton Boltachka, a Scinetific Assistent in the team of Elliott Ash [ADD link to his website] at ETH Zurich. Here, I share insights into my research, academic journey, and more about who I am.
+Welcome to my personal page! I'm Anton Boltachka, a Scientific Assistant in the team of [Elliott Ash](https://elliottash.com) at ETH Zurich. Here, I share insights into my research, academic journey, and more about who I am.
 
-## Curiculum Vitae
+## Curriculum Vitae
 
-[Add here an icon and link]
+[![CV Icon](link-to-cv-icon.png)](link-to-your-cv)
 
 ## My Research
 
@@ -15,8 +15,10 @@ Welcome to my personal page! I'm Anton Boltachka, a Scinetific Assistent in the 
 
 ### Publications
 
-- [Publication Title 1](link-to-publication) - A short description or abstract. [ADD A LINK TO THE PICTURE and ADD A collapse section]
-
+- [Publication Title 1](link-to-publication) - A short description or abstract. 
+  <details><summary>View Image</summary>
+  ![Publication Image](link-to-publication-image.png)
+  </details>
 
 ---
 
