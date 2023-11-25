@@ -7,10 +7,10 @@ favicon: true
 sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/BDHU
+    link: https://github.com/aboltachka
 
   - name: X/Twitter
     icon: <i class="fa-brands fa-twitter"></i>
-    link: https://twitter.com/[YourTwitterUsername]
+    link: https://twitter.com/aboltachka?s=21&t=xhJET1hGiEgJVJm4tfB66g
 
     
