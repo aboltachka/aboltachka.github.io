@@ -1,11 +1,6 @@
-Welcome to my personal page! I'm Anton Boltachka, a PhD student at [Your University]. Here, I share insights into my research, academic journey, and more about who I am.
-
 ## About Me
 
-- **Name:** [Your Full Name]
-- **Institution:** [Your University/Department]
-- **Research Area:** [Your Field of Study]
-- **Interests:** [Your Research Interests and/or Hobbies]
+Welcome to my personal page! I'm Anton Boltachka, a Scinetific Assistent in the team of Elliott Ash [ADD link to his website] at ETH Zurich. Here, I share insights into my research, academic journey, and more about who I am.
 
 ## Curiculum Vitae
 
@@ -20,8 +15,7 @@ Welcome to my personal page! I'm Anton Boltachka, a PhD student at [Your Univers
 
 ### Publications
 
-- [Publication Title 1](link-to-publication) - A short description or abstract.
-- [Publication Title 2](link-to-publication) - A short description or abstract.
+- [Publication Title 1](link-to-publication) - A short description or abstract. [ADD A LINK TO THE PICTURE and ADD A collapse section]
 
 
 ---
