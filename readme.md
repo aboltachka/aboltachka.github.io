@@ -1,6 +1,4 @@
-# [Your Name]'s Academic Portfolio
-
-Welcome to my personal GitHub Pages site! I'm [Your Name], a PhD student at [Your University]. Here, I share insights into my research, academic journey, and more about who I am.
+Welcome to my personal page! I'm Anton Boltachka, a PhD student at [Your University]. Here, I share insights into my research, academic journey, and more about who I am.
 
 ## About Me
 
@@ -8,6 +6,10 @@ Welcome to my personal GitHub Pages site! I'm [Your Name], a PhD student at [You
 - **Institution:** [Your University/Department]
 - **Research Area:** [Your Field of Study]
 - **Interests:** [Your Research Interests and/or Hobbies]
+
+## Curiculum Vitae
+
+[Add here an icon and link]
 
 ## My Research
 
@@ -21,28 +23,6 @@ Welcome to my personal GitHub Pages site! I'm [Your Name], a PhD student at [You
 - [Publication Title 1](link-to-publication) - A short description or abstract.
 - [Publication Title 2](link-to-publication) - A short description or abstract.
 
-### Conferences and Talks
-
-- **[Conference Name]** - Presented *[Talk/Poster Title]*. [Date]
-- **[Another Conference]** - Participated in *[Panel/Discussion]*. [Date]
-
-## Teaching
-
-[Information about any teaching roles, courses you assist with, or workshops you've conducted.]
-
-## Collaborations
-
-I'm open to collaborations! If you're interested in working together, please [contact me](mailto:your.email@example.com).
-
-## Contact Me
-
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [LinkedIn Profile](LinkedIn-link)
-- **Twitter:** [@YourTwitterHandle](Twitter-link)
-
-## Other Interests
-
-[Optional section where you can talk about hobbies or other interests outside academia.]
 
 ---
 
