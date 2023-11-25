@@ -18,7 +18,7 @@ Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in t
 #### In Progress
 
 <img src="https://progress-bar.dev/82" alt="20%" width="60"> Race-related Research in Economics, with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
-<br><span style="margin-left: 20px;">🔍 Try out our algorithm for detecting race-related research on <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Huggingface</a></span>
+<br><span style="margin-left: 50px;">🔍 Try out our algorithm for detecting race-related research on <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Huggingface</a></span>
 
 <img src="https://progress-bar.dev/20" alt="20%" width="60"> Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy?
 
