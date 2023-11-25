@@ -1,6 +1,6 @@
 ### About Me
 
-Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in the team of [Elliott Ash](https://elliottash.com) at ETH Zurich. On this webpage, I share insights into my research, academic journey, and more about who I am.
+Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in the team of [Elliott Ash](https://elliottash.com) at ETH Zurich. Here, I share insights into my research, academic journey, and more about who I am.
 
 ### Curriculum Vitae
 
@@ -8,17 +8,22 @@ Welcome to my personal webpage! I'm Anton Boltachka, a Scientific Assistant in t
 
 ### My Research
 
-#### Current Projects
+#### Working Papers
+
+- [Media Bias and Climate Change Skepticism]([link-to-publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632854)), with Elliott Ash, Sergio Galletta, and Matteo Pinna - . 
+  <details><summary>View abstract</summary>
+  ![Publication Image](link-to-publication-image.png)
+  </details>
+  <details><summary>Generate pcicture</summary>
+  ![Publication Image](link-to-publication-image.png)
+  </details>
 
 - **[Project Title 1]**: Brief description of your project. [Link to more details if available]
 - **[Project Title 2]**: Brief description of another project.
 
-#### Publications
+#### Work in Progress
 
-- [Publication Title 1](link-to-publication) - A short description or abstract. 
-  <details><summary>View Image</summary>
-  ![Publication Image](link-to-publication-image.png)
-  </details>
+
 
 ---
 
