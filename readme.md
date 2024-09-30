@@ -29,23 +29,13 @@ with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com
 
 #### In Progress
 
-- Immigration and Social Distance: Evidence from Newspapers during the Age of Mass Migration, joint with [Elliott Ash](https://elliottash.com), [Gloria Gennaro](http://gloriagennaro.rbind.io), [Dominik Hangartner](https://pp.ethz.ch/people/dominik-hangartner.html), [Alessandra Stampi-Bombelli](https://pp.ethz.ch/people/alessandra-stampi-bombelli.html)
+- Immigration and Social Distance: Evidence from Newspapers during the Age of Mass Migration, joint with [Elliott Ash](https://elliottash.com), [Gloria Gennaro](http://gloriagennaro.rbind.io), [Dominik Hangartner](https://pp.ethz.ch/people/dominik-hangartner.html), [Alessandra Stampi-Bombelli](https://pp.ethz.ch/people/alessandra-stampi-bombelli.html) <p style="font-size:8px;">[▓▓▓▓▓▓▓▓▓░]95%</p>
 
-<p style="font-size:8px;"> Progress: [▓▓▓▓▓▓▓▓▓░] 95% </p>
+- Race-related Research in Economics (Part 2), joint with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com) <p style="font-size:8px;">[▓▓▓▓▓▓░░░░]60%</p>
 
-- Race-related Research in Economics (Part 2), joint with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
+- Persuasive Effects of Language Used in Political Advertising, joint with [Elliott Ash](https://elliottash.com), [Amir Feder](https://www.amirfeder.com), [Lena Song](https://www.songlena.com). <p style="font-size:8px;">[▓▓▓▓▓░░░░░] 55%</p> 
 
-<p style="font-size:8px;"> Progress: [▓▓▓▓▓▓░░░░] 60% </p>
-
-- Persuasive Effects of Language Used in Political Advertising, joint with [Elliott Ash](https://elliottash.com), [Amir Feder](https://www.amirfeder.com), [Lena Song](https://www.songlena.com).
-
-<p style="font-size:8px;"> Progress: [▓▓▓▓▓░░░░░] 55% </p> 
-
-- Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy?
-
-<p style="font-size:8px;"> Progress: [▓░░░░░░░░░] 15% </p> 
-
-
+- Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy? <p style="font-size:8px;">[▓░░░░░░░░░] 15%</p> 
 
 ---
 
