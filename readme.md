@@ -30,15 +30,19 @@ with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com
 #### In Progress
 
 Immigration and Social Distance: Evidence from Newspapers during the Age of Mass Migration, joint with [Elliott Ash](https://elliottash.com), [Gloria Gennaro](http://gloriagennaro.rbind.io), [Dominik Hangartner](https://pp.ethz.ch/people/dominik-hangartner.html), [Alessandra Stampi-Bombelli](https://pp.ethz.ch/people/alessandra-stampi-bombelli.html)
+
 Progress: [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░] 95% 
 
 Race-related Research in Economics (Part 2), joint with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
+
 Progress: [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60% 
 
 Persuasive Effects of Language Used in Political Advertising, joint with [Elliott Ash](https://elliottash.com), [Amir Feder](https://www.amirfeder.com), [Lena Song](https://www.songlena.com).
+
 Progress: [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] 55% 
 
 Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy?
+
 Progress: [▓▓▓░░░░░░░░░░░░░░░░░] 15% 
 
 
