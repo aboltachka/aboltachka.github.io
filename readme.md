@@ -42,9 +42,10 @@ Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Pol
 <p style="font-size:11px;">[▓░░░░░░░░░] 15%</p> 
 
 ---
-#### Email Philosophy
 
+<details open><summary>## Email Philosophy</summary>
 Please use my academic email (anton.boltachka@phd.unibocconi.it) for all academic-related matters. For urgent issues (though most matters are typically non-urgent) or long-term discussions, feel free to contact me via my personal email (aboltachka@gmail.com).
+</details>
 
 ---
 
