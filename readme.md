@@ -22,20 +22,24 @@ joint with [Elliott Ash](https://elliottash.com), [Sergio Galletta](https://serg
 with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
   <details open><summary>View abstract</summary>
   Issues of racial justice and economic inequalities across racial and ethnic groups have risen to the top of public debate. Economists’ ability to contribute to these debates is based on the body of race-related research. We study the volume and content of race-related research in economics and examine the implicit incentives to produce such work. We do so for a corpus of 225,000 economics publications from 1960 to 2020 to which we apply an algorithmic approach to classify race-related work, and construct paths to publication for 22,000 NBER and 10,000 CEPR working papers posted over the last few decades. We present three new facts. First, since 1960 less than 2% of economics publications have been race-related, with such work being balkanized into a few felds and largely absent from many others. There is an uptick in such work in the mid 1990s. Among the top-5 journals this is driven by the AER, QJE and the JPE. Econometrica and the REStud have each cumulatively published fewer than 15 race-related articles since 1960. Second, on content, while over 50% of race-related publications in the 1970s focused on Black individuals, by the 2010s this had fallen to 20%. There has been a steady decline in the share of race-related research on discrimination since the 1980s, with a rise in the share of studies on identity. Finally, irrespective of feld, race- related working papers do not have worse publication outcomes compared to non race-related working papers, in terms of publication likelihood, quality of publication, publication lags and citations. Hence conditional on working papers being produced, the publications process provides little disincentive to work on race-related issues. We discuss policy implications stemming from our fndings on economists’ ability to contribute to debates on race and ethnicity in the economy.
+    <div style="border: 1px solid #ccc; padding: 10px; margin-top: 5px; margin-bottom: 15px; border-radius: 5px;">
+    🔍 <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Try out our algorithm for detecting race-related research</a>
+    </div>
   </details>
 
 #### In Progress
 
-Progress: [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░] 95% Immigration and Social Distance: Evidence from Newspapers during the Age of Mass Migration, joint with [Elliott Ash](https://elliottash.com), [Gloria Gennaro](http://gloriagennaro.rbind.io), [Dominik Hangartner](https://pp.ethz.ch/people/dominik-hangartner.html), [Alessandra Stampi-Bombelli](https://pp.ethz.ch/people/alessandra-stampi-bombelli.html)
+Immigration and Social Distance: Evidence from Newspapers during the Age of Mass Migration, joint with [Elliott Ash](https://elliottash.com), [Gloria Gennaro](http://gloriagennaro.rbind.io), [Dominik Hangartner](https://pp.ethz.ch/people/dominik-hangartner.html), [Alessandra Stampi-Bombelli](https://pp.ethz.ch/people/alessandra-stampi-bombelli.html)
+Progress: [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░] 95% 
 
-Progress: [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60% Race-related Research in Economics (Part 2), joint with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
-<div style="border: 1px solid #ccc; padding: 10px; margin-top: 5px; margin-bottom: 15px; border-radius: 5px;">
-    🔍 <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Try out our algorithm for detecting race-related research</a>
-</div>
+Race-related Research in Economics (Part 2), joint with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
+Progress: [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60% 
 
-Progress: [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] 55% Persuasive Effects of Language Used in Political Advertising, joint with [Elliott Ash](https://elliottash.com), [Amir Feder](https://www.amirfeder.com), [Lena Song](https://www.songlena.com).
+Persuasive Effects of Language Used in Political Advertising, joint with [Elliott Ash](https://elliottash.com), [Amir Feder](https://www.amirfeder.com), [Lena Song](https://www.songlena.com).
+Progress: [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] 55% 
 
-Progress: [▓▓▓░░░░░░░░░░░░░░░░░] 15% Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy?
+Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Policy?
+Progress: [▓▓▓░░░░░░░░░░░░░░░░░] 15% 
 
 
 
