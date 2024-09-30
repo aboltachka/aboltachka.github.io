@@ -41,7 +41,6 @@ with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com
 
 Immigration and Social Distance: Evidence from Newspapers during the Age of Mass Migration, joint with [Elliott Ash](https://elliottash.com), [Gloria Gennaro](http://gloriagennaro.rbind.io), [Dominik Hangartner](https://pp.ethz.ch/people/dominik-hangartner.html), [Alessandra Stampi-Bombelli](https://pp.ethz.ch/people/alessandra-stampi-bombelli.html)
 
-<span style="font-size:11px;">[▓▓▓▓▓▓▓▓▓░]95%</span>
 <p style="font-size:11px;">[▓▓▓▓▓▓▓▓▓░]95%</p>
 
 Race-related Research in Economics (Part 2), joint with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com) 
