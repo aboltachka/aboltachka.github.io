@@ -2,9 +2,13 @@
 
 Welcome to my personal webpage! I’m Anton Boltachka, a PhD student in Economics at Bocconi University. Previously, I worked as a Scientific Assistant in the team of [Elliott Ash](https://elliottash.com) at ETH Zurich. On this page, I share insights into my research, academic journey, and a bit more about myself.
 
+---
+
 ## Curriculum Vitae
 
 [(<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"><path stroke-linecap="round" d="M4 4v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8.342a2 2 0 0 0-.602-1.43l-4.44-4.342A2 2 0 0 0 13.56 2H6a2 2 0 0 0-2 2Zm5 9h6m-6 4h3"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></g></svg>)](docs/newdraft_CV_Boltachka  Anton.pdf) [Last update: Nov 26, 2023]
+
+---
 
 ## My Research
 
@@ -43,9 +47,8 @@ Listening to the Dictators: How Do Narratives of Authoritarian Leaders Shape Pol
 
 ---
 
-<details open><summary>## Email Philosophy</summary>
+## Email Philosophy
 Please use my academic email (anton.boltachka@phd.unibocconi.it) for all academic-related matters. For urgent issues (though most matters are typically non-urgent) or long-term discussions, feel free to contact me via my personal email (aboltachka@gmail.com).
-</details>
 
 ---
 
