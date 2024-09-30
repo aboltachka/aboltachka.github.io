@@ -19,7 +19,7 @@ joint with [Elliott Ash](https://elliottash.com), [Sergio Galletta](https://serg
   <details open><summary>View abstract</summary>
   This study examines the impact on climate change attitudes of exposure to Fox News Channel (FNC), the top-rated U.S. cable television channel known for its conservative bias. Our findings indicate a statistically significant shift towards climate change skepticism and a decline in support for climate change mitigation policies. The findings remain robust across multiple empirical methodologies, including addressing the endogeneity of viewership through an instrumental variable (IV) approach, and are consistent across a variety of survey datasets. Our research adds significant value to the existing literature on media's influence on beliefs, highlighting the role media plays in guiding societal discourse and comprehension.
   </details>
-  <details closed><summary>Main Insight</summary>
+  <details closed><summary>The Graph</summary>
   ![Descriptive Alt Text](assets/images/fnc.png)
   </details>
 
@@ -33,7 +33,7 @@ with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com
     🔍 <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Try out our algorithm for detecting race-related research</a>
     </div>
   </details>
-  <details closed><summary>Main Insight</summary>
+  <details closed><summary>The Graph</summary>
   ![Descriptive Alt Text](assets/images/rr.png)
   </details>
 
