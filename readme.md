@@ -20,7 +20,7 @@ joint with [Elliott Ash](https://elliottash.com), [Sergio Galletta](https://serg
   This study examines the impact on climate change attitudes of exposure to Fox News Channel (FNC), the top-rated U.S. cable television channel known for its conservative bias. Our findings indicate a statistically significant shift towards climate change skepticism and a decline in support for climate change mitigation policies. The findings remain robust across multiple empirical methodologies, including addressing the endogeneity of viewership through an instrumental variable (IV) approach, and are consistent across a variety of survey datasets. Our research adds significant value to the existing literature on media's influence on beliefs, highlighting the role media plays in guiding societal discourse and comprehension.
   </details>
   <details closed><summary>The Graph</summary>
-  ![Descriptive Alt Text](assets/img/fnc.png)
+  <img width="500" alt="fnc" src="https://github.com/user-attachments/assets/647743d7-0f18-49f3-8b67-715e75cc3091">
   </details>
 
 #### Working Papers
@@ -34,12 +34,13 @@ with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com
     </div>
   </details>
   <details closed><summary>The Graph</summary>
-  ![Descriptive Alt Text](assets/img/rr.png)
+  <img width="500" alt="rr" src="https://github.com/user-attachments/assets/826bf6d1-c816-4468-9044-532ef2b1e1fe">
   </details>
 
 #### In Progress
 
 Immigration and Social Distance: Evidence from Newspapers during the Age of Mass Migration, joint with [Elliott Ash](https://elliottash.com), [Gloria Gennaro](http://gloriagennaro.rbind.io), [Dominik Hangartner](https://pp.ethz.ch/people/dominik-hangartner.html), [Alessandra Stampi-Bombelli](https://pp.ethz.ch/people/alessandra-stampi-bombelli.html)
+<span style="font-size:11px;">[▓▓▓▓▓▓▓▓▓░]95%</span>
 <p style="font-size:11px;">[▓▓▓▓▓▓▓▓▓░]95%</p>
 
 Race-related Research in Economics (Part 2), joint with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com) 
