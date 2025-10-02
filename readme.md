@@ -12,6 +12,24 @@ Welcome to my personal webpage! I’m Anton Boltachka, a PhD student in Economic
 
 ## My Research
 
+#### Publications
+
+- [RACE-RELATED RESEARCH IN ECONOMICS](https://www.homepages.ucl.ac.uk/~uctpimr/research/Race_Publications.pdf), joint
+with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
+[Economica](https://onlinelibrary.wiley.com/journal/14680335?msockid=33e2ca30b6bc66a9077adac3b74767f5), forthcoming
+  <details open><summary>View abstract</summary>
+  Issues of racial justice and economic inequalities between racial and ethnic groups have risen to the top of public debate. Economists’ ability to contribute to these debates is based on the body of race-related research. We study the volume and content of race-related research in economics. Our analysis is based on a corpus of 225,000 economics publications from 1960 to 2020, to which we apply an algorithmic approach to classify race-related work.
+We present three new facts. First, since 1960, less than 2% of economics publications have been race-related, representing a cumulative body of just over 4,000 race-related publications in economics since 1960. There is an uptick in such work in the mid-1990s. Among the top five journals, this increase is driven by the American Economic Review, Quarterly Journal of Economics, and the Journal of Political Economy. Econometrica and the Review of Economic Studies have each cumulatively published fewer than 20 race-related articles since 1960, corresponding to 0.3% of all publications in those two journals.
+Second, in terms of content, while over 50% of race-related publications in the 1970s focused on Black individuals, by the 2010s this had fallen to 20%. There has been a steady decline in the share of race-related research on discrimination since the 1980s, alongside a rise in the share of studies on identity.
+Finally, we apply our algorithm to NBER and CEPR working papers posted over the last four decades to study an earlier stage of the research process. We document a concentration of race-related research in a few fields, and its continued absence from many others—a result that holds even within the subset of research examining issues of inequality or diversity. We conclude by discussing the implications of our findings for economists’ ability to contribute to debates on race and ethnicity in the economy.
+    <div style="border: 1px solid #ccc; padding: 10px; margin-top: 5px; margin-bottom: 15px; border-radius: 5px;">
+    🔍 <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Try out our algorithm for detecting race-related research</a>
+    </div>
+  </details>
+  <details closed><summary>The Graph</summary>
+  <img width="500" alt="rr" src="https://github.com/user-attachments/assets/826bf6d1-c816-4468-9044-532ef2b1e1fe">
+  </details>
+
 #### Under Review
 
 - [MEDIA BIAS AND CLIMATE CHANGE SKEPTICISM](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632854),
@@ -25,10 +43,13 @@ joint with [Elliott Ash](https://elliottash.com), [Sergio Galletta](https://serg
 
 #### Working Papers
 
-- [RACE-RELATED RESEARCH IN ECONOMICS](http://www.homepages.ucl.ac.uk/~uctpimr/research/Race_Publications.pdf), joint
+- [RACE-RELATED RESEARCH IN ECONOMICS](https://www.homepages.ucl.ac.uk/~uctpimr/research/Race_Publications.pdf), joint
 with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
   <details open><summary>View abstract</summary>
-  Issues of racial justice and economic inequalities across racial and ethnic groups have risen to the top of public debate. Economists’ ability to contribute to these debates is based on the body of race-related research. We study the volume and content of race-related research in economics and examine the implicit incentives to produce such work. We do so for a corpus of 225,000 economics publications from 1960 to 2020 to which we apply an algorithmic approach to classify race-related work, and construct paths to publication for 22,000 NBER and 10,000 CEPR working papers posted over the last few decades. We present three new facts. First, since 1960 less than 2% of economics publications have been race-related, with such work being balkanized into a few felds and largely absent from many others. There is an uptick in such work in the mid 1990s. Among the top-5 journals this is driven by the AER, QJE and the JPE. Econometrica and the REStud have each cumulatively published fewer than 15 race-related articles since 1960. Second, on content, while over 50% of race-related publications in the 1970s focused on Black individuals, by the 2010s this had fallen to 20%. There has been a steady decline in the share of race-related research on discrimination since the 1980s, with a rise in the share of studies on identity. Finally, irrespective of feld, race- related working papers do not have worse publication outcomes compared to non race-related working papers, in terms of publication likelihood, quality of publication, publication lags and citations. Hence conditional on working papers being produced, the publications process provides little disincentive to work on race-related issues. We discuss policy implications stemming from our fndings on economists’ ability to contribute to debates on race and ethnicity in the economy.
+  Issues of racial justice and economic inequalities between racial and ethnic groups have risen to the top of public debate. Economists’ ability to contribute to these debates is based on the body of race-related research. We study the volume and content of race-related research in economics. Our analysis is based on a corpus of 225,000 economics publications from 1960 to 2020, to which we apply an algorithmic approach to classify race-related work.
+We present three new facts. First, since 1960, less than 2% of economics publications have been race-related, representing a cumulative body of just over 4,000 race-related publications in economics since 1960. There is an uptick in such work in the mid-1990s. Among the top five journals, this increase is driven by the American Economic Review, Quarterly Journal of Economics, and the Journal of Political Economy. Econometrica and the Review of Economic Studies have each cumulatively published fewer than 20 race-related articles since 1960, corresponding to 0.3% of all publications in those two journals.
+Second, in terms of content, while over 50% of race-related publications in the 1970s focused on Black individuals, by the 2010s this had fallen to 20%. There has been a steady decline in the share of race-related research on discrimination since the 1980s, alongside a rise in the share of studies on identity.
+Finally, we apply our algorithm to NBER and CEPR working papers posted over the last four decades to study an earlier stage of the research process. We document a concentration of race-related research in a few fields, and its continued absence from many others—a result that holds even within the subset of research examining issues of inequality or diversity. We conclude by discussing the implications of our findings for economists’ ability to contribute to debates on race and ethnicity in the economy.
     <div style="border: 1px solid #ccc; padding: 10px; margin-top: 5px; margin-bottom: 15px; border-radius: 5px;">
     🔍 <a href="https://huggingface.co/spaces/aboltachka/rr_detector" target="_blank">Try out our algorithm for detecting race-related research</a>
     </div>
