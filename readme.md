@@ -16,6 +16,7 @@ Welcome to my personal webpage! I’m Anton Boltachka, a PhD student in Economic
 
 - [RACE-RELATED RESEARCH IN ECONOMICS](https://www.homepages.ucl.ac.uk/~uctpimr/research/Race_Publications.pdf), joint
 with [Arun Advani](https://arunadvani.com), [Elliott Ash](https://elliottash.com), [David Cai](https://davidjiyangcai.com), and [Imran Rasul](https://www.imranrasul.com)
+
 [Economica](https://onlinelibrary.wiley.com/journal/14680335?msockid=33e2ca30b6bc66a9077adac3b74767f5), forthcoming
   <details open><summary>View abstract</summary>
   Issues of racial justice and economic inequalities between racial and ethnic groups have risen to the top of public debate. Economists’ ability to contribute to these debates is based on the body of race-related research. We study the volume and content of race-related research in economics. Our analysis is based on a corpus of 225,000 economics publications from 1960 to 2020, to which we apply an algorithmic approach to classify race-related work.
